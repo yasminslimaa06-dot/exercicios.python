@@ -2,6 +2,7 @@
 Do print("Olá, mundo!")em diante: minha jornada aprendendo Python.
 ## O que ja pratiquei
 Arquivo | O que fez |
+|---|---|
 |exercicio01.py | Pergunte o nome e a idade e mostre uma saudação |
 |exercicio02.py |Multiplicar dois numeros |
 |exercicio03.py |Diz se a pessoa é maior,menor ou idoso ou idosa |
@@ -24,11 +25,15 @@ Arquivo | O que fez |
 |exercicio20.py |Agenda salva e carregada de arquivo '.txt' |
 
 ## Projetos
+
 |Pasta | O que fez |
+|---|---|
 |Projeto_agenda/   |Agenda de contatos completa: adicionar, buscar, listar, remover e editar, com validação, sem duplicados e dados salvos em arquivos |
+|Projeto_estoque   |Controle de estoque: cadastrar, listar com valor total, entrada e saída sem ficar negativo, remover e dados salvos em arquivo  |
 
 
 ## Conceitos usados 
+
 -Variáveis e 'input()'
 -f-strings
 -'if','elif' e 'else'
@@ -49,7 +54,7 @@ Arquivo | O que fez |
 - [x]Dicionários
 - [x]Arquivo e 'try/except'
 - [x]Projeto 1: Agenda de contatos
-- []Projeto 2: Controle de estoque
+- [x]Projeto 2: Controle de estoque
 - []Módulos e bibliotecas
 - []Orientação a objetos
 

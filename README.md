@@ -1,6 +1,6 @@
 # exercicios.python 
 Do print("Olá, mundo!")em diante: minha jornada aprendendo Python.
-## O que ja pratiquei
+## O que já pratiquei
 Arquivo | O que fez |
 |---|---|
 |exercicio01.py | Pergunte o nome e a idade e mostre uma saudação |
